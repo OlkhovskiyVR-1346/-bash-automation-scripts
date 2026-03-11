@@ -19,3 +19,16 @@
 
 ## Версия 
 v1.1 - добавлены улучшения 
+
+## Структура проекта
+
+LB2/
+   -README.md
+   -CHANGELOG.md
+   -LICENSE
+   .gitignore
+   -my_file.txt
+   -messages.txt
+   -myscript2.sh
+   -white_lodge.txt
+   -15 директорий с cherry_pie.sh
